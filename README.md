@@ -49,11 +49,7 @@ For any inquiries or further information, you can contact leekhitha.reddy@gmail.
 
 Thank you for using our Word and Character Counter GUI with MySQL Integration in Java! We hope you find it useful.
 
-<h1 align="center">Hi 👋, I'm T.Leekhitha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
