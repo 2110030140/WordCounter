@@ -48,4 +48,6 @@ Contact:
 For any inquiries or further information, you can contact leekhitha.reddy@gmail.com
 
 Thank you for using our Word and Character Counter GUI with MySQL Integration in Java! We hope you find it useful.
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=T LEEKHITHA REDDY)](https://github.com/2110030140?tab=repositories)
