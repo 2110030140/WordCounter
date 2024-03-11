@@ -1,4 +1,4 @@
-**Word and Character Counter GUI with MySQL Integration in Java**
+## Word and Character Counter GUI with MySQL Integration in Java
 
 This project provides a simple graphical user interface (GUI) application implemented in Java for counting words and characters in a text input. It consists of two separate implementations: one using Swing and another utilizing AWT for the GUI components. Additionally, it incorporates a MySQL database for storing and retrieving text input data.
 
